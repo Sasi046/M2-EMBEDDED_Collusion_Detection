@@ -4,7 +4,7 @@
 
 [![Cppcheck](https://github.com/Sasi046/M2-EMBEDDED_Collusion_Detection/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sasi046/M2-EMBEDDED_Collusion_Detection/actions/workflows/cppcheck.yml)
 
-
+[![Build](https://github.com/Sasi046/M2-EMBEDDED_Collusion_Detection/actions/workflows/compile.yml/badge.svg)](https://github.com/Sasi046/M2-EMBEDDED_Collusion_Detection/actions/workflows/compile.yml)
 
 # . Folder Structure #
 # . Folder Description #
