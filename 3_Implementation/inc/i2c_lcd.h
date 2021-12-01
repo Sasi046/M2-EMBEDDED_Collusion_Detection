@@ -1,8 +1,5 @@
 /*
  * i2c_lcd.h
- *
- *  Created on: Nov 17, 2017
- *      Author: abel
  */
 
 #include <avr/io.h>
