@@ -1,6 +1,6 @@
 # M2-EMBEDDED_Collusion_Detection
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/de6db68e624d42938bda9f2e9077b9ac)](https://www.codacy.com/gh/Sasi046/M2-EMBEDDED_Collusion_Detection/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sasi046/M2-EMBEDDED_Collusion_Detection&amp;utm_campaign=Badge_Grade)
 
 
 
