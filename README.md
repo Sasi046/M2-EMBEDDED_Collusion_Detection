@@ -1,2 +1,2 @@
-# M2-EMBEDDED_Segment-Seven-Display-Driver
+# M2-EMBEDDED_Led-Display-Using-Seven-Segment-Display
 
